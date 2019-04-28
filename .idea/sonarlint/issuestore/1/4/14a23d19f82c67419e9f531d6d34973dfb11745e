@@ -1,0 +1,9 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck4""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Osquid:S11972"8Move the array designator from the variable to the type.(À˜¸Û
+dsquid:S1068"MRemove this unused "MY_PERMISSIONS_REQUEST_READ_FINE_LOCATION" private field.(¯á¢ª
+Isquid:S11995"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+usquid:S1450"^Remove the "mLastUpdateTime" field and declare it as a local variable in the relevant methods.(½ÁÃˆ
+2squid:S3626S"Remove this redundant jump.(ûÁÝ…
+gsquid:S13014"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+Nsquid:S1135?"2Complete the task associated to this TODO comment.(žáÃæùÿÿÿÿ
